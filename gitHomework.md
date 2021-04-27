@@ -2,7 +2,7 @@
 
 #### README
 
-[](https://github.com/lzybest/English.git)
+[](https://github.com/llzhang07/EnglishHomework/blob/main/README.md)
 
 
 
